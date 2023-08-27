@@ -1,0 +1,10 @@
+foodName = input("Name a food > ")
+plantType = input("Name a type of plant > ")
+method = input("Name a method of cooking > ")
+foodType = input("What word describes your food type(sweet, salty, spicy)? > ")
+diy = input("Name a DIY item > ")
+print('*****************')
+print('MENU')
+print('*****************')
+print('For starter', foodName,'with', method , 'paneer and main with', foodType, 'marbled', plantType, 'buttery essence', 
+'lastly', 'for desserts on a bed of', diy,'a hidden core of luscious caramel that oozes forth, adding a touch of luxurious sweetness to the ensemble')
